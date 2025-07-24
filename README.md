@@ -1,10 +1,10 @@
 # woocommerce-product-video-gallery
 Product Video Gallery Plugin for WooCommerce by FMEAddons
-[Download Plugin from official WooCommerce marketplace (FMEAddons)](https://woocommerce.com/products/add-featured-videos-in-product-gallery/)
+
 # Product Video Gallery for WooCommerce - by FMEAddons
 
 ## Introduction
-This plugin allows WooCommerce store owners to upload self-hosted product videos (MP4) and display them directly in the product gallery or replace the featured image on single product pages. Perfect for showcasing product demos without relying on YouTube or Vimeo.
+The [WooCommerce Product Video](https://woocommerce.com/products/add-featured-videos-in-product-gallery/) plugin allows WooCommerce store owners to upload self-hosted product videos (MP4) and display them directly in the product gallery or replace the featured image on single product pages. Perfect for showcasing product demos without relying on YouTube or Vimeo.
 
 ## Features
 - Upload and attach MP4 videos from WordPress Media Library  
